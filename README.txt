@@ -1,4 +1,4 @@
-(this is a fork from the bril;iant Hundred Rabbits, please [support their work](https://www.patreon.com/hundredrabbits))
+(this is a fork from the brilliant Hundred Rabbits, please [support their work](https://www.patreon.com/hundredrabbits))
 
 RONIN
 
